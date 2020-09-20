@@ -1,5 +1,6 @@
-# Heroku aria2c
+# Heroku Aria2c
 
+## Direct Deploy
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 > Do not overuse it, or your account might be banned by Heroku.
